@@ -1,2 +1,7 @@
-# sql-data-warehouse-project
-Building a model DWH project with, ETL and SQL sever.
+# Data Warehouse and Analytics Project
+
+
+Welcome to the **Datawarehouse and Analytics Project** repo!!!
+This project demonstrates data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineering and analytics.
+
+----
